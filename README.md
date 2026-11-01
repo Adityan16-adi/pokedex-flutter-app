@@ -13,6 +13,19 @@ A modern Pokédex app built with Flutter. It has a glassmorphism design, a clean
 - Detail screen with animated stat bars, height, weight and types
 - Hero animations, loading skeletons, and retry on errors
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/demo.gif" width="240" alt="App demo" />
+</p>
+
+<p align="center">
+  <img src="screenshots/landing.png" width="180" alt="Landing screen" />
+  <img src="screenshots/list.png" width="180" alt="Pokémon list" />
+  <img src="screenshots/filter-fighting.png" width="180" alt="Type filter" />
+  <img src="screenshots/infinite-scroll.png" width="180" alt="Infinite scroll" />
+</p>
+
 ## Tech stack
 
 - Flutter and Dart
@@ -55,3 +68,4 @@ Pokémon data and artwork come from [PokéAPI](https://pokeapi.co). Pokémon and
 ## Author
 
 Made by [Adityan](https://github.com/Adityan16-adi).
+
