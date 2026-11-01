@@ -1,4 +1,4 @@
-﻿# Pokédex
+# Pokédex
 
 A modern Pokédex app built with Flutter. It has a glassmorphism design, a clean landing screen, and infinite scrolling through **every Pokémon** in the PokéAPI, with no hardcoded limit.
 
@@ -22,7 +22,7 @@ A modern Pokédex app built with Flutter. It has a glassmorphism design, a clean
 <p align="center">
   <img src="screenshots/landing.png" width="180" alt="Landing screen" />
   <img src="screenshots/list.png" width="180" alt="Pokémon list" />
-  <img src="screenshots/filter-fighting.png" width="180" alt="Type filter" />
+  <img src="screenshots/detail-charizard.png" width="180" alt="Pokemon detail" />
   <img src="screenshots/infinite-scroll.png" width="180" alt="Infinite scroll" />
 </p>
 
